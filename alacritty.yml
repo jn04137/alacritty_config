@@ -1,3 +1,5 @@
+# background_opacity: 0.7
+
 font:
   normal:
     family: JetBrainsMono Nerd Font Mono
@@ -12,30 +14,30 @@ cursor:
   style:
     shape: Block
     blinking: On
-
-background_opacity: 0.7
 colors:
   # Default colors
   primary:
-    background: '#1B1D1E'
-    foreground: '#F8F8F2'
+    background: '#2E3440'
+    foreground: '#D8DEE9'
+
   # Normal colors
   normal:
-    black: '#333333'
-    red: '#C4265E'
-    green: '#86B42B'
-    yellow: '#B3B42B'
-    blue: '#6A7EC8'
-    magenta: '#8C6BC8'
-    cyan: '#56ADBC'
-    white: '#E3E3DD'
+    black: '#3B4252'
+    red: '#BF616A'
+    green: '#A3BE8C'
+    yellow: '#EBCB8B'
+    blue: '#81A1C1'
+    magenta: '#B48EAD'
+    cyan: '#88C0D0'
+    white: '#E5E9F0'
+
   # Bright colors
   bright:
-    black: '#666666'
-    red: '#F92672'
-    green: '#A6E22E'
-    yellow: '#E2E22E'
-    blue: '#819AFF'
-    magenta: '#AE81FF'
-    cyan: '#66D9EF'
-    white: '#F8F8F2'
+    black: '#4C566A'
+    red: '#BF616A'
+    green: '#A3BE8C'
+    yellow: '#EBCB8B'
+    blue: '#81A1C1'
+    magenta: '#B48EAD'
+    cyan: '#8FBCBB'
+    white: '#ECEFF4'
